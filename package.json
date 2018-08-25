@@ -1,0 +1,17 @@
+{
+  "name": "ht6-graphql",
+  "version": "1.0.0",
+  "description": "Hack the 6ix 2018 GraphQL Workshop",
+  "main": "server.js",
+  "repository": "git@github.com:lyninx/ht6-graphql.git",
+  "author": "Dennis Pacewicz <dennis@hackthe6ix.com>",
+  "license": "MPL-2.0",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "mongoose": "^5.2.9"
+  }
+}
